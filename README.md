@@ -1,5 +1,5 @@
 # ArduBuddy - Current Version 1.0.0.10
-A C++ Console Application containing calculator for determining electronics component ratings.  The purpose of which is create a simple aid for common and useful calculations used in the open source community of makers.
+A C++ Console Application containing calculators for determining electronics component ratings.  The purpose of which is create a simple aid for common and useful calculations used in the open source community of makers.
 
 Current Menu Items:
 1. Battery Life Calculator.
