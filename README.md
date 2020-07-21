@@ -21,6 +21,6 @@ ParallelRes.cpp
 menuHandler.h
 menuHandler.cpp
 
-ArduBuddy.exe is executable console application.
+ArduBuddy.exe is a built and executable console application.
 
 The project is under ongiong development and seeking to include more calculators and tables of information.
